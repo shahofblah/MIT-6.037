@@ -8,6 +8,6 @@
         recitation materials
 
 ### Resources :
-        Course webpage - http://web.mit.edu/alexmv/6.037/
-        SICP book - https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html
-        Racket language - http://www.racket-lang.org/
+        [Course webpage](http://web.mit.edu/alexmv/6.037/)
+        [SICP book](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html)
+        [Racket language](http://www.racket-lang.org/)
